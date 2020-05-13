@@ -1,0 +1,17 @@
+avishavtal, eviatarc
+Avishav tal, eviatar cohen
+
+README for final Python exercise
+in this project we implemnted four in a row game that can be chosed played player against another playr that might
+play from another computer, the player can also choose to play against the computer
+in this project we implemented also the required gui and most of the communication (some of it given to us)
+
+files: game.py, ai.py, four_in_a_row.py, communicator.py, gui.py
+several files of images for the gui
+description: the  game.py file contains two classes:
+Coin in charge of the game pices
+Game that in charge of the logic of the game.
+the gui.py file contains the Graphic class that in charge of the graphics.
+all the parts of the program meet get involved this file.
+ai.py file contains the AI class that in charge of the ai behavior
+
